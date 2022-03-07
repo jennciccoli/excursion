@@ -2,24 +2,17 @@ body {
   background-color: black;
   font-family: Verdana, sans-serif;
   text-align: center;
+  color: white;
 }
 
 h1 {
   font-weight: normal;
   font-size: 50px;
-  color: white;
 }
 
-h2 {
+h2, h3 {
   font-size: 42px;
   font-weight: 300;
-  color: white;
-}
-
-h3 {
-  font-size: 42px;
-  font-weight: 300;
-  color: white;
 }
 
 a {
