@@ -10,7 +10,13 @@ h1 {
   color: white;
 }
 
-h2, h3 {
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+h3 {
   font-size: 42px;
   font-weight: 300;
   color: white;
