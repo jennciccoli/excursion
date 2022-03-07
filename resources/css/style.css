@@ -1,9 +1,29 @@
 body {
-  background-color: #000;
-}
-h1 {
+  background-color: black;
   font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+h1 {
   font-weight: normal;
   font-size: 50px;
-  color: #FFF;
+  color: white;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+
+a {
+  color: aquamarine;
+}
+
+p {
+  font-size: 16px;
+  color: gray;
+  font-size: 21px;
+}
+
+footer {
+  text-align: right;
 }
